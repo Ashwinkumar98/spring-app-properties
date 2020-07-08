@@ -12,22 +12,3 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.H2Dialect
 
-server:
-  port: 8080
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include:
-        -  "*"
-        
-jwt:
-  secret: ashwinkumar
-  
-info:
-  app:
-    name: Notes Application
-    version : 1.0
-    java:
-      version: 1.8
