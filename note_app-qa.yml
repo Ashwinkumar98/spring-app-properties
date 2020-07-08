@@ -5,7 +5,7 @@ spring:
     initialization-mode: ALWAYS
     username: kfzpgtqegrfpwy
     password: b5f909b41832d60000bf8bfd6b54ef998a1e5f4b2d31067aef0d266588641449
-    type: org.apache.tomcat.jdbc.pool.DataSource
+    
   jpa:
     show-sql: false
     hibernate:
