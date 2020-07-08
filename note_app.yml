@@ -23,7 +23,7 @@ management:
         -  "*"
         
 jwt:
-  secret: ashwin
+  secret: ashwinkumar
   
 info:
   app:
