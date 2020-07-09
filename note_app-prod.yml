@@ -1,5 +1,6 @@
 spring:
   datasource:
+    initialization-mode: ALWAYS
     url: jdbc:postgresql://ec2-54-247-71-245.eu-west-1.compute.amazonaws.com:5432/d73nf8eoenphv3
     driver-class-name: org.postgresql.Driver
     username: kfzpgtqegrfpwy
